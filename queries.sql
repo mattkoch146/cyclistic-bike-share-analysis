@@ -1,5 +1,5 @@
 -- Cyclistic Bike Share Analysis
--- Google Data Analytics Certificate — Case Study 1
+-- Google Data Analytics Certificate — Case Study
 -- All queries run in Google BigQuery
 
 -- ============================================
