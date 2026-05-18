@@ -1,4 +1,4 @@
-Google Data Analytics Certificate Case Study 1 - Cyclistic Bike Share Analysis
+Google Data Analytics Certificate Case Study - Cyclistic Bike Share Analysis
 
 ---
 
